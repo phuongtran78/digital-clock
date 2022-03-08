@@ -23,7 +23,7 @@ p {
     top: 50%;
     transform: translate(-50%, -50%);
     color: #daf6ff;
-    text-shadow: 0 0 20px #1cf7ff, 0 0 20px rgb(100, 100, 100);
+    text-shadow: 0 0 20px #0ABAB5, 0 0 20px rgb(100, 100, 100);
 }
 
 #clock .time {
